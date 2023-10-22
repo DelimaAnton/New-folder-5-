@@ -1,0 +1,18 @@
+Laptop Class	Business
+Processor	AMD Ryzen 7 7736U
+Processor Speed	2.7 GHz
+RAM (as Tested)	16 GB
+Boot Drive Type	SSD
+Boot Drive Capacity (as Tested)	512 GB
+Screen Size	14 inches
+Native Display Resolution	1920 by 1200
+Touch Screen	
+Panel Technology	IPS
+Variable Refresh Support	None
+Screen Refresh Rate	60 Hz
+Graphics Processor	AMD Radeon 680M
+Wireless Networking	Wi-Fi 6E, Bluetooth 5.2
+Dimensions (HWD)	0.72 by 12.4 by 8.8 inches
+Weight	3.53 pounds
+Operating System	Windows 11 Home
+Tested Battery Life (Hours:Minutes)	7:43

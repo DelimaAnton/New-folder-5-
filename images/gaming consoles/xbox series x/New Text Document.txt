@@ -1,0 +1,21 @@
+Dimensions	301mm (11.85in) tall and 151mm (5.95in) in depth and width
+Weight	9.8 pounds
+Graphics	12 TFLOPS (teraflops), 52 CUs (compute units) @ 1.825 GHz Custom RDNA 2 GPU
+Processor	8x Cores @ 3.8GHz (3.6 GHz w/ SMT) Custom Zen 2 CPU
+Memory	16GB GDDR6 (10GB @ 560GB/s fast GPU optimal memory, 3.5GB @ 336GB/s standard memory, 2.5GB @ 336GB/s reserved memory for OS and apps)
+Storage	1TB PCIe 4.0 NVME Solid-State Drive (SSD) with speeds of 2.4GB/s (raw) and 4.8GB/s (compressed)
+Disc Drive	4K UHD Blu-Ray Drive
+Power Supply	300w, internal
+HDMI resolution and framerate	1x HDMI 2.1 (out)
+4K @ 60fps, , up to 120fps
+8K up to 120fps
+Variable Refresh Rate (VRR)
+Auto Low Latency Mode (ALLM)
+Networking	Ethernet
+Wireless
+USB Port	2x USB 3.2
+Expandable Storage	1TB Expansion Card
+External Storage	USB 3.2 External HDD Support
+IR Blaster	No
+Ray Tracing	Yes
+Audio	Audio out only, through HDMI port

@@ -1,0 +1,123 @@
+Lens Mount
+Canon RF
+Camera Format
+Full-Frame (1x Crop Factor)
+Pixels
+Actual: 21.4 Megapixel
+Effective: 20.1 Megapixel
+Maximum Resolution
+5472 x 3648
+Aspect Ratio
+1:1, 4:3, 16:9
+Sensor Type
+CMOS
+Sensor Size
+36 x 24 mm
+Image File Format
+JPEG, Raw, HEIF
+Bit Depth
+14-Bit
+Image Stabilization
+Sensor-Shift, 5-Axis
+Exposure Control
+ISO Sensitivity
+Auto, 100 to 102400 (Extended: 100 to 204800)
+Shutter Speed
+Mechanical Shutter
+1/8000 to 30 Seconds
+Electronic Front Curtain Shutter
+1/8000 to 30 Seconds
+Electronic Shutter
+1/8000 to 0.5 Seconds
+Metering Method
+Center-Weighted Average, Evaluative, Partial, Spot
+Exposure Modes
+Aperture Priority, Auto, Manual, Program, Shutter Priority
+Exposure Compensation
+-3 to +3 EV (1/3, 1/2 EV Steps)
+Metering Range
+-3 to 20 EV
+White Balance
+Auto, Cloudy, Color Temperature, Custom, Daylight, Flash, Fluorescent (White), Shade, Tungsten
+Continuous Shooting
+Mechanical Shutter
+Up to 12 fps at 20 MP for up to 1000 Frames (JPEG) / 240 Frames (Raw)
+Electronic Shutter
+Up to 20 fps at 20 MP for up to 1000 Frames (JPEG) / 240 Frames (Raw)
+Interval Recording
+Yes
+Self-Timer
+2/10-Second Delay
+Video
+Recording Modes
+H.265 4:2:2 10-Bit
+UHD 4K (3840 x 2160) at 23.976p/29.97p/59.94p [170 to 340 Mb/s]
+Full HD (1920 x 1080) at 23.976p/29.97p/59.94p/119.88p [28 to 180 Mb/s]
+H.264 4:2:0 8-Bit
+UHD 4K (3840 x 2160) at 23.976p/29.97p/59.94p [120 to 230 Mb/s]
+Full HD (1920 x 1080) at 23.976p/29.97p/59.94p/119.88p [12 to 120 Mb/s]
+External Recording Modes
+4:2:2 10-Bit
+UHD 4K (3840 x 2160) up to 59.94p
+Recording Limit
+Up to 29 Minutes, 59 Seconds
+Video Encoding
+NTSC/PAL
+Audio Recording
+Built-In Microphone (Stereo)
+External Microphone Input
+Audio File Format
+AAC, Linear PCM
+Focus
+Focus Type
+Auto and Manual Focus
+Focus Mode
+Continuous-Servo AF (C), Manual Focus (M), Single-Servo AF (S)
+Autofocus Points
+Phase Detection: 1053
+Autofocus Sensitivity
+-6.5 to +20 EV
+Viewfinder and Monitor
+Viewfinder Type
+Electronic (OLED)
+Viewfinder Size
+0.5"
+Viewfinder Resolution
+3,690,000 Dot
+Viewfinder Eye Point
+23 mm
+Viewfinder Coverage
+100%
+Viewfinder Magnification
+Approx. 0.76x
+Diopter Adjustment
+-4 to +2
+Monitor Size
+3"
+Monitor Resolution
+1,620,000 Dot
+Monitor Type
+Free-Angle Tilting Touchscreen LCD
+Flash
+Built-In Flash
+No
+Dedicated Flash System
+eTTL
+External Flash Connection
+Hot Shoe
+Flash Compensation
+-3 to +3 EV (1/3, 1/2 EV Steps)
+Interface
+Memory Card Slot
+Dual Slot: SD/SDHC/SDXC (UHS-II)
+Connectivity
+USB Type-C (USB 3.1), HDMI D (Micro), 3.5mm Headphone, 3.5mm Microphone
+Wireless
+Yes
+Bluetooth
+Yes
+Physical
+Battery
+1 x LP-E6NH Rechargeable Lithium-Ion
+Weight
+1.5 lb / 680 g (Body with Battery and Memory)

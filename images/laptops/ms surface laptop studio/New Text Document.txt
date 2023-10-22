@@ -1,0 +1,9 @@
+Price: $1,599 (starting); $2,699 (as reviewed)
+CPU: Intel Core i7-11370H
+GPU: Nvidia RTX 3050 Ti (4GB of VRAM)
+RAM: 32GB
+Storage: 1TB SSD
+Display: 14.4-inch, 2400 x 1600-pixel (3:2) at 120Hz
+Battery: 10:42
+Size: 12.7 x 9 x 0.75 inches
+Weight: 4 pounds 

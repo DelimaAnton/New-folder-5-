@@ -1,0 +1,36 @@
+CPU     	x86-64-AMD Ryzen™ “Zen 2”
+8 Cores / 16 Threads 
+Variable frequency, up to 3.5 GHz
+GPU
+AMD Radeon™ RDNA 2-based graphics engine
+Ray Tracing Acceleration 
+Variable frequency, up to 2.23 GHz (10.3 TFLOPS)
+System Memory	GDDR6 16GB
+448GB/s Bandwidth
+SSD
+825GB
+5.5GB/s Read Bandwidth (Raw)
+Optical Drive 
+Ultra HD Blu-ray (66G/100G) ~10xCAV
+BD-ROM (25G/50G) ~8xCAV
+BD-R/RE (25G/50G) ~8xCAV
+DVD ~3.2xCLV 
+ 
+PS5 Game Disc	Ultra HD Blu-ray, up to 100GB/disc
+Video Out
+HDMI™ OUT port 
+Support of 4K 120Hz TVs, 8K TVs, VRR (specified by HDMI ver.2.1)
+Audio	“Tempest” 3D AudioTec
+Dimensions 	PS5: Approx. 390mm x 104mm x 260mm (width x height x depth)(excludes largest projection, excludes Base)
+Weight	PS5: 4.5kg 
+Power
+PS5: 350W
+Input/Output
+USB Type-A port (Hi-Speed USB) 
+USB Type-A port (Super-Speed USB 10Gbps) x2 
+USB Type-C® port (Super-Speed USB 10Gbps)
+ 
+Networking
+Ethernet (10BASE-T, 100BASE-TX, 1000BASE-T)
+IEEE 802.11 a/b/g/n/ac/ax 
+Bluetooth® 5.1

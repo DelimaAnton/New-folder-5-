@@ -1,0 +1,36 @@
+Technology	
+GSM / HSPA / LTE
+LAUNCH	Announced	2022, September 07
+Status	Available. Released 2022, September 16
+BODY	Dimensions	44 x 38 x 10.7 mm (1.73 x 1.50 x 0.42 in)
+Weight	33 g (1.16 oz)
+Build	Glass front, plastic/sapphire crystal back, aluminum frame
+SIM	eSIM
+ 	50m water resistant
+DISPLAY	Type	Retina LTPO OLED, 1000 nits (peak)
+Size	1.78 inches
+Resolution	448 x 368 pixels (~326 ppi density)
+Protection	Ion-X strengthened glass
+PLATFORM	OS	watchOS 9.0, upgradable to watchOS 10
+Chipset	Apple S8
+CPU	Dual-core
+GPU	PowerVR
+MEMORY	Card slot	No
+Internal	32GB 1GB RAM
+CAMERA	 	No
+SOUND	Loudspeaker	Yes
+3.5mm jack	No
+COMMS	WLAN	Wi-Fi 802.11 b/g/n
+Bluetooth	5.3, A2DP, LE
+Positioning	GPS, GLONASS, GALILEO, QZSS
+NFC	Yes
+Radio	No
+USB	No
+FEATURES	Sensors	Accelerometer, gyro, heart rate (2nd gen), barometer, always-on altimeter, compass
+BATTERY	Type	Li-Ion 296 mAh, non-removable
+Charging	Wireless
+MISC	Colors	Midnight, Starlight, Silver
+Models	A2722, A2723, A2724, A2727, A2856, A2725, A2726, A2855, watch6,10, watch6,11, watch6,12, watch6,13
+SAR	0.27 W/kg (head)     1.96 W/kg (body)    
+SAR EU	0.27 W/kg (head)     1.96 W/kg (body)    
+Price	$ 167.95 / € 225.99

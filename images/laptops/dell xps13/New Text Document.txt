@@ -1,0 +1,30 @@
+Processor
+12th Gen Intel® Core™ i7-1250U (12 MB cache, 10 cores, 12 threads, up to 4.70 GHz Turbo)
+
+ 
+Operating System
+Windows 11 Pro, English
+
+ 
+Graphics Card
+Intel® Iris® Xe Graphics
+
+ 
+Display
+13.4", FHD+ 1920x1200, 60Hz, Touch, Anti-Reflect, 500 nit, InfinityEdge
+
+ 
+Memory 
+16 GB: LPDDR5, 5200 MT/s (onboard), dual-channel
+
+ 
+Storage
+512 GB, PCIe NVMe x2 NVMe, SSD integrated
+
+ 
+Case
+Umber
+
+ 
+Microsoft Office
+No Microsoft Office Included

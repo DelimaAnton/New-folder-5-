@@ -1,0 +1,77 @@
+Dimensions
+49mm
+
+Height: 49mm
+Width: 44mm
+Depth: 14.4mm
+Case Weight: 61.4g
+Design
+49mm case
+Aerospace grade titanium
+Dual speakers
+Three-microphone array with beamforming and wind noise mitigation
+Control:
+Customizable Action button
+Digital Crown with haptic feedback
+Side button
+Double tap gesture^
+On-Device Siri^
+Display:
+Always-On Retina LTPO OLED display
+Flat sapphire crystal display
+Up to 3000 nits maximum brightness
+1 nit minimum brightness
+Chip:
+S9 SiP with 64-bit dual-core processor
+4-core Apple Neural Engine
+64GB capacity
+Sensors:
+Blood oxygen sensor and app1
+Electrical heart sensor and ECG app2
+Third-generation optical heart sensor
+High and low heart rate notifications2
+Irregular rhythm notifications3
+Sleep stages
+Temperature sensing4
+Depth gauge ±1m accuracy and app
+Water temperature sensor
+Compass with Waypoints and Backtrack
+Always-on altimeter
+High-g accelerometer
+High dynamic range gyroscope
+Ambient light sensor
+Safety:
+Emergency SOS5
+International emergency calling6
+Siren
+Crash Detection5
+Fall Detection5
+Splash, Water and Dust:
+Water resistance 100m (swim proof)7
+Dust resistance IP6X10
+EN13319 recreational scuba diving to 40m7
+Tested to MIL-STD 810H: altitude, high temperature, low temperature, temperature shock, immersion, freeze with thaw, ice and freezing rain, and shock and vibration11
+Connectivity and Communication:
+Precision dual-frequency GPS: GPS, GNSS, Galileo and BeiDou
+LTE and UMTS8
+Wi-Fi 4 (802.11n)
+Bluetooth 5.3
+Second-generation Ultra Wideband chip12
+Apple Pay
+GymKit
+Power and Battery Life:
+Built-in rechargeable lithium-ion battery
+Up to 36 hours normal use9
+Up to 72 hours in Low Power Mode9
+USB-C magnetic fast charging cable
+Environmental Requirements:
+On-wrist operating temperature: -4° F to 130° F (-20° C to 55° C)
+Operational temperature: 32°F to 95°F (0°C to 35°C)
+Nonoperational storage temperature: 4°F to 113°F (-20° to 45°C)
+Dive operating temperature: 32°F to 104°F (0°C to 40°C)
+Relative humidity: 5% to 90% noncondensing
+Operating Altitude: -1600 feet to 29,500 feet (-500 m to 9000 m)
+In the Box
+Apple Watch Ultra 2
+Band/Loop
+Apple Watch Magnetic Fast Charger to USB-C Cable (1m)

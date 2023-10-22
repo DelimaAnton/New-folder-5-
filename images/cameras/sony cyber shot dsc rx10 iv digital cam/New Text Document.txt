@@ -1,0 +1,106 @@
+Built-In Flash
+Yes
+External Flash Connection
+Hot Shoe
+Flash Modes
+Auto, Flash On, Off, Rear Sync, Red-Eye Reduction, Slow Sync
+Effective Flash Range
+ISO Auto
+3.3 to 35.4' / 1 to 10.8 m (Wide)
+3.3 to 21.3' / 1 to 6.5 m (Telephoto)
+ISO 12800
+Up to 68.2' / 20.8 m (Wide)
+Up to 42' / 12.8 m (Telephoto)
+Viewfinder and Monitor
+Viewfinder Type
+Electronic
+Viewfinder Size
+3"
+Viewfinder Resolution
+2,359,296 Dot
+Viewfinder Coverage
+100%
+Diopter Adjustment
+-4 to +3
+Monitor Size
+3
+Monitor Resolution
+1,440,000 Dot
+Monitor Type
+Tilting Touchscreen LCD
+Focus
+Interface
+Memory Card Slot
+Single Slot: SD/SDHC/SDXC/Memory Stick Duo Hybrid
+Connectivity
+3.5mm Microphone, HDMI D (Micro), USB Micro-B (USB 2.0)
+Wireless
+Wi-Fi
+Bluetooth
+Physical
+Battery
+1 x NP-FW50 Rechargeable Lithium-Ion, 7.2 VDC, 1020 mAh (Approx. 370 Shots)
+Weight
+1095 g (Body with Battery and Memory)
+Environmental
+Lens
+Focal Length
+8.8 to 220mm (35mm Equivalent Focal Length: 24 to 600mm)
+Optical Zoom
+25x
+Digital Zoom
+4x Maximum (100x Combined Zoom)
+2x Optimized (50x Combined Zoom)
+Maximum Aperture
+f/2.4 to 4
+Focus Range
+1.97" to Infinity / 3 cm to Infinity (Wide)
+11.81" to Infinity / 72 cm to Infinity (Telephoto)
+Optical Design
+18 Elements in 13 Groups
+Minimum Aperture
+f/16
+Exposure Control
+ISO Sensitivity
+Auto, 100 to 12800 (Extended: 64 to 12800)
+Shutter Speed
+Mechanical Shutter
+1/2000 to 4 Seconds in Auto Mode
+1/2000 to 30 Seconds in Program Mode
+1/2000 to 30 Seconds in Manual Mode
+1/2000 to 30 Seconds in Aperture Priority Mode
+1/2000 to 30 Seconds in Shutter Priority Mode
+Electronic Shutter
+1/32000 to 4 Seconds in Auto Mode
+1/32000 to 30 Seconds in Program Mode
+1/32000 to 30 Seconds in Manual Mode
+1/32000 to 30 Seconds in Aperture Priority Mode
+1/32000 to 30 Seconds in Shutter Priority Mode
+Metering Method
+Center-Weighted Average, Multi, Spot
+Exposure Modes
+Aperture Priority, Auto, Manual, Shutter Priority
+Exposure Compensation
+-3 to +3 EV (1/3 EV Steps)
+White Balance
+Auto, Cloudy, Color Temperature Filter, Custom, Daylight, Flash, Fluorescent (Cool White), Fluorescent (Day White), Fluorescent (Daylight), Fluorescent (Warm White), Incandescent, Shade
+Continuous Shooting
+Up to 24 fps at 20.1 MP for up to 249 Frames (JPEG
+Self-Timer
+2/5/10-Second Delay
+Video
+Recording Modes
+AVCHD/MP4/XAVC S
+UHD 4K (3840 x 2160) at 24.00p/25p/29.97p
+Full HD (1920 x 1080) at 24.00p/25p/29.97p/50p/59.94p/240p/250p/480p/500p/959.94p/1000p
+Full HD (1920 x 1080) at 50i/59.94i
+HD (1280 x 720) at 25p/29.97p
+Recording Limit
+Up to 29 Minutes
+Video Encoding
+NTSC/PAL
+Audio Recording
+Built-In Microphone (Stereo)
+External Microphone Input
+Audio File Format
+AAC LC, AC3, Dolby Digital 2ch, Linear PCM (Stereo)

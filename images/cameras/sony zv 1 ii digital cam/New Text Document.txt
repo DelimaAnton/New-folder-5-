@@ -1,0 +1,55 @@
+Focal Length
+6.9 to 17.6mm (35mm Equivalent Focal Length: 18 to 50mm)
+Optical Zoom
+2.7x
+Digital Zoom
+4x Maximum
+1.5x Optimized
+Focus Range
+2" to / 5 cm to (Wide)
+5.9" to / 15 cm to (Telephoto)
+Exposure Control
+ISO Sensitivity
+Photo
+125 to 12,800 in Manual Mode (Extended: 80 to 12,800)
+125 to 12,800 in Auto Mode
+Video
+125 to 12,800 in Manual, Auto Mode
+Shutter Speed
+Electronic Shutter
+1/32000 to 1/4 Second
+Metering Method
+Center-Weighted Average, Highlight, Multi, Spot
+Exposure Modes
+Auto, Manual
+Exposure Compensation
+-3 to +3 EV (1/3 EV Steps)
+Metering Range
+0 to 24 EV
+White Balance
+2500 to 9900K
+Presets: Auto, Cloudy, Daylight, Flash, Fluorescent (Cool White), Fluorescent (Day White), Fluorescent (Daylight), Incandescent, Shade, Underwater
+Continuous Shooting
+Electronic Shutter
+Up to 24 fps for up to 189 Frames (JPEG) / 80 Frames (Raw)
+Interval Recording
+Yes
+Video
+Recording Modes
+H.264/MPEG-4 AVC 4:2:0 8-Bit
+UHD 4K (3840 x 2160) at 23.98/25/29.97 fps [60 to 100 Mb/s]
+1920 x 1080 at 23.98/25/29.97/50/59.94/100/120 fps [16 to 100 Mb/s]
+Recording Limit
+None
+Viewfinder and Monitor
+Flash
+Built-In Flash
+No
+External Flash Connection
+
+Hot Shoe
+Interface
+Memory Card Slot
+Single Slot: SD/SDHC/SDXC/Memory Stick Duo Hybrid
+Wireless
+2.4 GHz Wi-Fi (802.11b/g)
