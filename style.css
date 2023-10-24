@@ -65,3 +65,27 @@ body{
 .bdsi{
     overflow-x: hidden;
 }
+
+.loginbtn{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.signupbtn{
+    text-decoration: none;
+    color: white;  
+}
+
+.subtn{
+    height: 50px;
+}
+
+.lginbtn{
+    height: 50px;
+}
+
+.cabtn{
+    text-decoration: none;
+    color: white;
+}
