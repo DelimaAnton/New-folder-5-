@@ -89,3 +89,53 @@ body{
     text-decoration: none;
     color: white;
 }
+
+.promoimage2 {
+    max-width: 100%; 
+    height: auto; 
+    margin-top: 130px;
+  }
+  
+  
+  @media (max-width: 767px) {
+    .promoimage2{
+      max-width: 100%; 
+    }
+  }
+
+  .vsdimg{
+    height: 225px;
+  }
+
+  .nsoimg{
+    height: 225px;
+  }
+
+  .xbsximg{
+    height: 255px;
+  }
+
+  .wishlisttitle{
+    margin-top: 100px;
+    font-size: 45px;
+  }
+
+  .wishlistheart{
+    width: 50px;
+    height: 50px;
+  }
+
+  .trashsvg{
+    height: 30px;
+    width: 30px;
+  }
+  
+  .cartcheckout{
+    margin-top: 100px;
+    height: 60px;
+    
+  }
+
+  .playbtn{
+    width: 100px;
+  }
