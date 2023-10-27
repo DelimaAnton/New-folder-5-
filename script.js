@@ -95,4 +95,11 @@ document.getElementById('smartWatchDD').addEventListener('click', function() {
     
     window.location.href = fullURL;
   });
+
+  const product = document.getElementById("buybtn");
+
+  product.addEventListener("click",()=>{
+    const file = "single_product_view.html";
+    window.location.href = file;
+  })
  

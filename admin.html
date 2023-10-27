@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin New Tech</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
+    <link rel="icon" type="x-icon/image" href="images\robotic-hand.png">
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+</head>
+<body>
+    <div class="container-fluid">
+        <!-- navbar -->
+      <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
+        <div class="container-fluid">
+          <a href="#" class="navbar-brand fs-1">New Tech</a>
+            <p class="text-light mt-4">Admin Panel</p>
+          <button
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            class="navbar-toggler"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a href="login.html" class="nav-link active fs-5 pe-4 mt-1">Log Out</a>
+              </li>
+            </ul>
+
+            <form class="d-flex" role="search">
+              <input type="text" class="form-control ms-auto d-flex px-3" placeholder="search"/>
+              <button class="btn bg-dark-subtle ">Search</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+    </div>
+
+    <div class="container-fluid h-100 bwrow">
+        <div class="row h-100">
+            
+            <div class="col-2 bg-dark text-light">
+              <div class="container dbcontainer">
+                <a href="" class="dba"><h3 class="d-inline dbt"><img src="svg\bxs-dashboard.svg" alt="" class="dbimg">Dash Board</h3></a>
+              </div>
+              <div class="container dbcontainer">
+                <a href="" class="dba"><h3 class="d-inline dbt"><img src="svg\bx-user-circle.svg" alt="" class="dbimg">Manage Users</h3></a>
+              </div>
+              <div class="container dbcontainer">
+                <a href="" class="dba"><h3 class="d-inline dbt"><img src="svg\bx-cart-alt (2).svg" alt="" class="dbimg text-white">Manage Orders</h3></a>
+              </div>
+              <div class="container dbcontainer">
+                <a href="" class="dba"><h3 class="d-inline dbt"><img src="svg\bxs-box.svg" alt="" class="dbimg">ManageProducts</h3></a>
+              </div>
+               
+            </div>
+            
+            <div class="col-10 bg-light ">
+
+              <h1 class="ms-5">Dash Board</h1>
+              <div class="card-group rounded cdg">
+                <div class="card rounded-5 shadow-lg" style="width: 25rem ">
+                  <img src="images\Improve-Page-Views.png" class="card-img-top" alt="" class="cdimg" />
+                  <div class="card-body">
+                    <h5 class="card-title fs-3">Site Visits</h5>
+                    <p class="card-text d-inline-block fw-bold">
+                      Visits This month -
+                    </p>
+                    <p class="d-inline text-danger">23725 devices</p>
+                    <br>
+                    <p class="card-text d-inline fw-bold">
+                      Visits Today -
+                    </p>
+                    <p class="d-inline text-danger">2049 devices</p>
+                    <div class="container d-flex mb-5">
+                      <button class="btn btn-primary mx-auto mibtn">More Info</button>
+                    </div>
+                    
+                  </div>
+                </div>
+                <div class="card rounded-5 shadow-lg" style="width: 25rem" >
+                  <img src="images\orders-post.jpg" class="card-img-top" alt="" class="cdimg"/>
+                  <div class="card-body">
+                    <h5 class="card-title fs-3">Total orders and Sales</h5>
+                    <div class="container d-flex mb-5">
+                      <button class="btn btn-primary mx-auto mibtn">More Info</button>
+                    </div>
+                    
+                  </div>
+                </div>
+                <div class="card rounded-5 shadow-lg" style="width: 25rem">
+                  <img src="images\man (1).png" class="card-img-top" alt="" class="cdimg"/>
+                  <div class="card-body">
+                    <h5 class="card-title">User Information</h5>
+                    <div class="container d-flex mb-5">
+                      <button class="btn btn-primary mx-auto mibtn">More Info</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+
+    <script src="script.js"></script>
+    <script src="bootstrap/bootstrap.bundle.min.js"></script>
+</body>
+</html> 

@@ -139,3 +139,49 @@ body{
   .playbtn{
     width: 100px;
   }
+
+  .ap{
+    font-size: 15px;
+  }
+
+  .ser{
+    width: 300px;
+  }
+
+  .bwrow{
+    margin-top: 80px;
+  }
+
+  .dbimg{
+    height: 50px;
+    
+  }
+
+  .dba{
+    text-decoration: none;
+    color: white;
+  }
+
+  .dbcontainer{
+    margin-top: 40px;
+  }
+
+  .mibtn{
+    margin-top: 20px;
+  }
+
+  .cdimg{
+    height: 200px;
+  }
+
+  .content-container{
+    margin-top: 100px;
+  }
+
+  @media(min-width:600px){
+    .con1{
+      width: 600px;
+    }
+  }
+
+  
